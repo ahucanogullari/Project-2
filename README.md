@@ -1,2 +1,2 @@
 # Project-2
-## Merge Projesi
+## Merge Sort Projesi
